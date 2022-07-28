@@ -1,5 +1,3 @@
-from telnetlib import STATUS
-from tkinter import CASCADE
 from django.contrib.auth.models import User
 from django.db import models
 from django.utils import timezone
